@@ -1,15 +1,15 @@
 /* ------------ GOOGLE FONTS ------------ */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 :root{
-  --font: 'Poppins', sans-serif;
+  --font: 'Poppins', MonteCarlo;
   --title-font-size: 2.25rem;
   
   --big-font-size: 1.5rem;
   --middle-font-size: 1.125rem;
   --normal-font-size: 1rem;
   --small-font-size: 0.75rem;
-  --bg-color: #d4a4a4;
-  --second-bg-color: #808080;
+  --bg-color: #000000;
+  --second-bg-color: #f7eaea;
   --text-color:#0a0a38;
   --second-text-color: #080000;
   --main-color:#131613;
@@ -30,7 +30,7 @@ html{
 }
 
 body{
-  font-family: var(--font);
+  font-family: var(MonteCarlo);
   font-size: var(--normal-font-size);
   color: var(--text-color);
   background-color: var(--bg-color);
@@ -391,7 +391,7 @@ footer p {
   font-size: 14px;
   text-transform: uppercase;
 
-  background: linear-gradient(45deg, #638ED1, #ff0000, #009688,#44E3D3);
+  background: linear-gradient(45deg, #e3edfc, #ffd2d2, #ff7cc8,#ff1fa2);
   background-size: 400% 100%;
   animation: degrade 10s linear infinite alternate;
 
@@ -412,7 +412,7 @@ footer p {
 
 p{
   font-size: 16px;
-  color: green;
+  color: rgb(255, 255, 255);
 }
 
 .texto{
@@ -499,7 +499,7 @@ h4{
   }
 
   h1{
-    color: green;
+    color: rgb(255, 255, 255);
     font-size: 1.5rem;
     font-weight: bold;
   }
