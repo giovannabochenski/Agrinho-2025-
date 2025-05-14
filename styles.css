@@ -9,7 +9,7 @@
   --normal-font-size: 1rem;
   --small-font-size: 0.75rem;
   --bg-color: #000000;
-  --second-bg-color: #f7eaea;
+  --second-bg-color: #ffffff;
   --text-color:#ffffff;
   --second-text-color: #080000;
   --main-color:#131613;
@@ -34,7 +34,7 @@ body{
   font-size: var(--normal-font-size);
   color: var(--text-color);
   background-color: var(--bg-color);
-  background: gray;
+  background: rgb(255, 244, 244);
 }
 
 li{
