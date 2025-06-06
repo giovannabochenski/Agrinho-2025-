@@ -183,6 +183,16 @@ textarea{
 .nav.active .nav__links{
   top: var(--height-nav);
 }
+}
+
+h1{
+    color: #1b4a68;
+    font-size: larger;
+    text-align: center;
+    font-family: 'Poppins', MonteCarlo;
+    font-size: 22px;
+    font-weight: bolder;
+}
 
 .hero{
   width: 100%;
