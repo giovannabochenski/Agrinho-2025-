@@ -4,14 +4,14 @@
   --font: 'Poppins', MonteCarlo;
   --title-font-size: 2.25rem;
   
-  --big-font-size: 1.5rem;
+  --big-font-size: 1.125rem;
   --middle-font-size: 1.125rem;
   --normal-font-size: 1rem;
   --small-font-size: 0.75rem;
   --bg-color: #000000;
   --second-bg-color: #ffffff;
   --text-color:#ffffff;
-  --second-text-color: #080000;
+  --second-text-color: #ffffff;
   --main-color:#131613;
   --height-nav: 3em;
   --padding-container: 3em 0;
